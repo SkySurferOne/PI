@@ -1,0 +1,17 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# Other
+.idea/
+*.exe
+*.opensdf
+**/Debug/*
+*.sdf
+**/.vs
+*.opendb
